@@ -1,0 +1,101 @@
+Id,Title,Labels,Iteration,Iteration Start,Iteration End,Type,Estimate,Current State,Created at,Accepted at,Deadline,Requested By,Description,URL,Owned By,Comment,Task,Task Status,Task,Task Status,Task,Task Status
+3178105,Payment Module,payment,,,,epic,,,"Nov 29, 2016",,,,"As a cashier, I need to add payment details into the restaurant ordering system, so that company can calculate total sales amount.",https://www.pivotaltracker.com/epic/show/3178105,,,,,,,,
+3178091,Order Module,order,,,,epic,,,"Nov 29, 2016",,,,"As a cashier, I need to add order into the restaurant ordering system, so that the company can keep track on customers' top preference food. ",https://www.pivotaltracker.com/epic/show/3178091,,,,,,,,
+3178079,Staff Maintenance Module,staff crud,,,,epic,,,"Nov 29, 2016",,,,"As a  restaurant manager, I want to manage restaurant staff so that restaurant can use the man power effectively and efficiency.",https://www.pivotaltracker.com/epic/show/3178079,,,,,,,,
+3178077,Seat Reservation Module,reservation,,,,epic,,,"Nov 29, 2016",,,,"As a staff manager, I want to reserve customer seat so that customer don't have to take long queue when they dine in.",https://www.pivotaltracker.com/epic/show/3178077,,,,,,,,
+3178075,Member maintenance module,member crud,,,,epic,,,"Nov 29, 2016",,,,"As a restaurant manager, i need to maintain member details. So that, restaurant is able to send promotion message and voucher to customer.",https://www.pivotaltracker.com/epic/show/3178075,,,,,,,,
+3178071,Food Menu Maintenance Module,food crud,,,,epic,,,"Nov 29, 2016",,,,"As a restaurant manager, I want to manage the food menu so that the restaurant is able to provide various food to customer.",https://www.pivotaltracker.com/epic/show/3178071,,,,,,,,
+135197185,Add member,member crud,1,"Nov 28, 2016","Dec 11, 2016",feature,0,finished,"Nov 29, 2016",,,WengYong,"As a restaurant manager, i want to add new member details into database. So that, restaurant is able to provide benefit only our registered customer.",https://www.pivotaltracker.com/story/show/135197185,WengYong,"Commit by AaydenGoh
+https://github.com/AaydenGoh/OrderingSystem-Agile-/commit/1b509b805edf85d29fa77a97920d4308ccbabc53
+
+Add files via upload
+
+[(Finishes)#135197185][(Finishes)#135197459][(Finishes)#135197699][(Finishes)#135197791]
+[(Finishes)#135198283][(Finishes)#135198165][(Finishes)#135197671][(Finishes)#135197975]
+[(Finishes)#135197477][(Finishes)#135198377] (WengYong - Nov 30, 2016)",design add member ui,completed,add member functionality coding,completed,basic validation coding,completed
+135197459,Update member details,member crud,1,"Nov 28, 2016","Dec 11, 2016",feature,0,finished,"Nov 29, 2016",,,WengYong,"As a restaurant manager, i want to edit member details. So that, when retrieve member details accurately when send mail to customer.",https://www.pivotaltracker.com/story/show/135197459,WengYong,"Commit by AaydenGoh
+https://github.com/AaydenGoh/OrderingSystem-Agile-/commit/1b509b805edf85d29fa77a97920d4308ccbabc53
+
+Add files via upload
+
+[(Finishes)#135197185][(Finishes)#135197459][(Finishes)#135197699][(Finishes)#135197791]
+[(Finishes)#135198283][(Finishes)#135198165][(Finishes)#135197671][(Finishes)#135197975]
+[(Finishes)#135197477][(Finishes)#135198377] (WengYong - Nov 30, 2016)",Edit member details UI,completed,Edit member functionality coding,completed,Basic validation coding,completed
+135197699,Check member details,member crud,1,"Nov 28, 2016","Dec 11, 2016",feature,0,finished,"Nov 29, 2016",,,WengYong,"As a restaurant manager, i want to check member details. So that, can analyze member behavior.",https://www.pivotaltracker.com/story/show/135197699,WengYong,"Commit by AaydenGoh
+https://github.com/AaydenGoh/OrderingSystem-Agile-/commit/1b509b805edf85d29fa77a97920d4308ccbabc53
+
+Add files via upload
+
+[(Finishes)#135197185][(Finishes)#135197459][(Finishes)#135197699][(Finishes)#135197791]
+[(Finishes)#135198283][(Finishes)#135198165][(Finishes)#135197671][(Finishes)#135197975]
+[(Finishes)#135197477][(Finishes)#135198377] (WengYong - Nov 30, 2016)",Design member list ui,completed,Retrieve member details coding,completed,Basic validation coding,completed
+135197791,Delete member module,member crud,1,"Nov 28, 2016","Dec 11, 2016",feature,0,finished,"Nov 29, 2016",,,WengYong,"As a restaurant manager, i want to delete member. So that,  is easy to keep track who is registered member.",https://www.pivotaltracker.com/story/show/135197791,WengYong,"Commit by AaydenGoh
+https://github.com/AaydenGoh/OrderingSystem-Agile-/commit/1b509b805edf85d29fa77a97920d4308ccbabc53
+
+Add files via upload
+
+[(Finishes)#135197185][(Finishes)#135197459][(Finishes)#135197699][(Finishes)#135197791]
+[(Finishes)#135198283][(Finishes)#135198165][(Finishes)#135197671][(Finishes)#135197975]
+[(Finishes)#135197477][(Finishes)#135198377] (WengYong - Nov 30, 2016)",Design delete UI,completed,Delete member functionality coding,completed,Basic validation coding,completed
+135198377,Search member,member crud,1,"Nov 28, 2016","Dec 11, 2016",feature,0,finished,"Nov 29, 2016",,,WengYong,"As a restaurant manager, i want to search member details. So that, i can save time for searching from large amount of member list.",https://www.pivotaltracker.com/story/show/135198377,WengYong,"Commit by AaydenGoh
+https://github.com/AaydenGoh/OrderingSystem-Agile-/commit/1b509b805edf85d29fa77a97920d4308ccbabc53
+
+Add files via upload
+
+[(Finishes)#135197185][(Finishes)#135197459][(Finishes)#135197699][(Finishes)#135197791]
+[(Finishes)#135198283][(Finishes)#135198165][(Finishes)#135197671][(Finishes)#135197975]
+[(Finishes)#135197477][(Finishes)#135198377] (WengYong - Nov 30, 2016)",Design search ui,completed,Search member functionality,completed,Functionality testing,completed
+135198283,Search staff details,staff crud,1,"Nov 28, 2016","Dec 11, 2016",feature,0,finished,"Nov 29, 2016",,,Eng Yee Jei,"As a restaurant manager, I want to search staff information, so that i can save time for searching from a large amount of staff list.",https://www.pivotaltracker.com/story/show/135198283,WengYong,"Commit by AaydenGoh
+https://github.com/AaydenGoh/OrderingSystem-Agile-/commit/1b509b805edf85d29fa77a97920d4308ccbabc53
+
+Add files via upload
+
+[(Finishes)#135197185][(Finishes)#135197459][(Finishes)#135197699][(Finishes)#135197791]
+[(Finishes)#135198283][(Finishes)#135198165][(Finishes)#135197671][(Finishes)#135197975]
+[(Finishes)#135197477][(Finishes)#135198377] (WengYong - Nov 30, 2016)",Design search user interface.,completed,Develop search staff functionality.,completed,Functionality testing.,completed
+135198165,Delete staff details,staff crud,1,"Nov 28, 2016","Dec 11, 2016",feature,0,finished,"Nov 29, 2016",,,Eng Yee Jei,"As a restaurant manager, I want delete the staff information, so that i do not waste time on the staff information that not longer work in restaurant.",https://www.pivotaltracker.com/story/show/135198165,WengYong,"Commit by AaydenGoh
+https://github.com/AaydenGoh/OrderingSystem-Agile-/commit/1b509b805edf85d29fa77a97920d4308ccbabc53
+
+Add files via upload
+
+[(Finishes)#135197185][(Finishes)#135197459][(Finishes)#135197699][(Finishes)#135197791]
+[(Finishes)#135198283][(Finishes)#135198165][(Finishes)#135197671][(Finishes)#135197975]
+[(Finishes)#135197477][(Finishes)#135198377] (WengYong - Nov 30, 2016)",Design delete staff user interface.,completed,Develop delete functionality.,completed,Functionality Testing.,completed
+135197671,Update staff detalis,staff crud,1,"Nov 28, 2016","Dec 11, 2016",feature,0,finished,"Nov 29, 2016",,,Eng Yee Jei,"As a restaurant manager, I want to edit staff information so that I can get the update to date staff information.",https://www.pivotaltracker.com/story/show/135197671,WengYong,"Commit by AaydenGoh
+https://github.com/AaydenGoh/OrderingSystem-Agile-/commit/1b509b805edf85d29fa77a97920d4308ccbabc53
+
+Add files via upload
+
+[(Finishes)#135197185][(Finishes)#135197459][(Finishes)#135197699][(Finishes)#135197791]
+[(Finishes)#135198283][(Finishes)#135198165][(Finishes)#135197671][(Finishes)#135197975]
+[(Finishes)#135197477][(Finishes)#135198377] (WengYong - Nov 30, 2016)",Design edit staff user interface.,completed,Develop functionality of staff,completed,Functionality testing.,completed
+135197975,Retrieve staff details,staff crud,1,"Nov 28, 2016","Dec 11, 2016",feature,0,finished,"Nov 29, 2016",,,Eng Yee Jei,"As a restaurant manager, I want to retrieve staff information so that i can know the personal details of a  staff, no need to meet every staff to understand their personalities.",https://www.pivotaltracker.com/story/show/135197975,WengYong,"Commit by AaydenGoh
+https://github.com/AaydenGoh/OrderingSystem-Agile-/commit/1b509b805edf85d29fa77a97920d4308ccbabc53
+
+Add files via upload
+
+[(Finishes)#135197185][(Finishes)#135197459][(Finishes)#135197699][(Finishes)#135197791]
+[(Finishes)#135198283][(Finishes)#135198165][(Finishes)#135197671][(Finishes)#135197975]
+[(Finishes)#135197477][(Finishes)#135198377] (WengYong - Nov 30, 2016)",Design retrieve user interface.,completed,Develop functionality of retrieve staff.,completed
+135197477,Add new staff information,staff crud,1,"Nov 28, 2016","Dec 11, 2016",feature,0,finished,"Nov 29, 2016",,,Eng Yee Jei,"As a restaurant manage, I want to add a new staff information, so that i can assign task effectively according to the information.",https://www.pivotaltracker.com/story/show/135197477,WengYong,"Commit by AaydenGoh
+https://github.com/AaydenGoh/OrderingSystem-Agile-/commit/1b509b805edf85d29fa77a97920d4308ccbabc53
+
+Add files via upload
+
+[(Finishes)#135197185][(Finishes)#135197459][(Finishes)#135197699][(Finishes)#135197791]
+[(Finishes)#135198283][(Finishes)#135198165][(Finishes)#135197671][(Finishes)#135197975]
+[(Finishes)#135197477][(Finishes)#135198377] (WengYong - Nov 30, 2016)",Design staff module interface.,completed,Develop the functionality of add staff,completed,Functionality Testing,completed
+135198809,Generate Receipt,payment,,,,feature,,unscheduled,"Nov 29, 2016",,,Hamish Then,"As a cashier, I need to generate receipt, so that the company can keep track what had been sold to who.",https://www.pivotaltracker.com/story/show/135198809,,,Design user interface,not completed,Code functionalities,not completed,Implement input validation,not completed
+135198727,Calculate payment amount,payment,,,,feature,,unscheduled,"Nov 29, 2016",,,Hamish Then,"As a cashier, I need to calculate total payment details, so that the receipt can be generated to the customer.",https://www.pivotaltracker.com/story/show/135198727,,,Design user interface,not completed,Code functionalities ,not completed,Implement input validations,not completed
+135198409,Search Seat Reservation Module,reservation,,,,feature,,unscheduled,"Nov 29, 2016",,,Chua Wei Han,"As a staff manager, I want to search customer reserved seat so that I can search any customer reserved seat that I want.",https://www.pivotaltracker.com/story/show/135198409,,,Design Search Seat Reservation UI,not completed,Search Seat Reservation Coding,not completed,Basic Validation Coding,not completed
+135198351,Search Food Details,food crud,,,,feature,,unscheduled,"Nov 29, 2016",,,Gee Chun Seng,"As a restaurant manager, I want to search food details so that I can view the food details in more efficiency way.
+
+",https://www.pivotaltracker.com/story/show/135198351,
+135198215,Update Food,food crud,,,,feature,,unscheduled,"Nov 29, 2016",,,Gee Chun Seng,"As a restaurant manager, I want to edit the food details in food menu so that I able to adjust the price of the food for business strategy purpose.",https://www.pivotaltracker.com/story/show/135198215,,,Design Edit Food UI,not completed,Edit Food Functionality coding,not completed,Functionality Testing,not completed
+135198003,Cancel ordered item,order,,,,feature,,unscheduled,"Nov 29, 2016",,,Hamish Then,"As a cashier, I need to cancel ordered item from the restaurant ordering system, so that it provide flexibility to the customer. ",https://www.pivotaltracker.com/story/show/135198003,,,Design user interface.,not completed,Code functionalities. ,not completed,Implement input validation.,not completed
+135197899,Add order item,order,,,,feature,,unscheduled,"Nov 29, 2016",,,Hamish Then,"As a cashier, i need to add new order item into a single order receipt, so that customer order can be recorded.",https://www.pivotaltracker.com/story/show/135197899,,,Design user interface.,not completed,Code functionalities.,not completed,Implement input validations,not completed
+135197823,Display Food Menu,food crud,,,,feature,,unscheduled,"Nov 29, 2016",,,Gee Chun Seng,"As a restaurant manager, I want to view the food menu so that I able to view the details of the food.",https://www.pivotaltracker.com/story/show/135197823,,,Design Food Display UI,not completed,Food Display Functionality coding,not completed,Functionality Testing,not completed
+135197503,Check Seat Reservation Module,reservation,,,,feature,,unscheduled,"Nov 29, 2016",,,Chua Wei Han,"As a staff manager, I want to check the reserved seat so that I can know whether the customer reserved the seat or no.",https://www.pivotaltracker.com/story/show/135197503,,,Design Check Seat Reservation UI,not completed,Check Seat Reservation Coding,not completed,Basic Validation Coding,not completed
+135197397,Add Seat Reservation Module,reservation,,,,feature,,unscheduled,"Nov 29, 2016",,,Chua Wei Han,"As a staff manager, I want to add seat reservation so that customer don't have to wait for their seat.",https://www.pivotaltracker.com/story/show/135197397,,,Design Add Seat UI,not completed,Add Reserve Seat Coding,not completed,Basic Validation Coding,not completed
+135197269,Delete Food,food crud,,,,feature,,unscheduled,"Nov 29, 2016",,,Gee Chun Seng,"As a restaurant manager, I want to remove the food that not popular on the food menu so that restaurant can reduce the cost on the food ingredient.",https://www.pivotaltracker.com/story/show/135197269,,,Design Delete Food UI,not completed,Delete Food Functionality Coding,not completed,Functionality Testing,not completed
+135197213,Add New Food,food crud,,,,feature,,unscheduled,"Nov 29, 2016",,,Gee Chun Seng,"As a restaurant manager, I want to add a new food into the food menu so that the restaurant  is able to provide new food to customer.",https://www.pivotaltracker.com/story/show/135197213,,,Design Add Food UI,not completed,Add Food functionality coding ,not completed,Functionality Testing,not completed
